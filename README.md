@@ -5,7 +5,7 @@ CodePath Simple Todo App is an android app that allows building a todo list and 
 
 Submitted by: Alejandro Marquez
 
-Time spent: 6 hours spent in total (approx.)
+Time spent: 8 hours spent in total (approx.)
 
 ## User Stories
 
@@ -35,7 +35,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-  - In the Guide the narator used the etItem variable twice in the program and this created a bug on my side, which I was able to resolve.
   - Took some time to acclimate to Android Studio IDE since I never worked with it prior to this project.
 
 ## License
